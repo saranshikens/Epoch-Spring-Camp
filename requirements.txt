@@ -1,0 +1,21 @@
+# Requirements for 4_Way_Kaleidoscope
+matplotlib==3.10.1
+numpy==2.2.4
+
+# Requirements for Automatic_Differentiation
+matplotlib==3.10.1
+numpy==2.2.4
+
+# Requirements for K_Means_Clustering
+folium==0.19.5
+matplotlib==3.10.1
+numpy==2.2.4
+pandas==2.2.3
+
+# Requirements for K_Nearest_Neighbours
+matplotlib==3.10.1
+numpy==2.2.4
+
+#Requirements for Decision_Tree
+matplotlib==3.10.1
+numpy==2.2.4
